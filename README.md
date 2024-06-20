@@ -1,2 +1,2 @@
-# LibraryPython
+# PythonLibrary
  Bibliotecas em Python
